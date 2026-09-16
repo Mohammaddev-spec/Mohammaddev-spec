@@ -10,4 +10,4 @@ I care about writing clean, understandable code — and I'm always happy to expl
 🌱 Skills: Python (functions, file handling, data structures), automation basics
 🤖 Comfortable working with AI tools to speed up development and problem-solving
 💬 Let's talk if you need: automation scripts, small Python tools, or a reliable hand with repetitive tasks
-📫 Reach out: [ایمیلت رو اینجا بذار]
+📫 Reach out: hkhishvand2002@gmail.com
